@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Praktikum 2</string>
+    <string name="email">Muhamat Zaqy Munif</string>
+    <string name="nim">20210140097</string>
+    <string name="batu">WELCOME</string>
+    <string name="EnterAdress">Masukan Alamat</string>
+    <string name="EnterPhone">Masukan Nomor Telp</string>
+    <string name="EnterName">Masukan Nama</string>
+    <string name="submit">SUBMIT</string>
+    <string name="Name">Nama</string>
+    <string name="Alamat">Adress</string>
+    <string name="Phone">Phone</string>
+    <string name="Button_1">Button 1</string>
+    <string name="Button_2">Button 2</string>
+    <string name="match">MATCH PARENT</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="select">Select your Ticket</string>
+    <string name="lf"><![CDATA[<]]></string>
+    <string name="rg"><![CDATA[>]]></string>
+
+
+
+
+
+</resources>
